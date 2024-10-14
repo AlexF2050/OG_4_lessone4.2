@@ -1,6 +1,9 @@
-print("ДЗ OG_4 Конфликт")
+print("ДЗ OG_4 Конфликт Решён")
 
 a = 10
 b = 20
 
-b = a
+if a > b:
+    print("a > b")
+else:
+    print("a < b")  
